@@ -1,9 +1,14 @@
-<h1>
-  <p style="text-align:center">IN</p>
-</h1>
+body {
+  <h1>IN</h1>
+  margin: 30px auto;
+  max-width: 60%;
+  line-height: 1.5;
+  padding: 30px 25px;
+  text-align: center;
+}
 
 body {
-  background-image: url(https://j-dm.org/wp-content/uploads/2015/11/dark_room.jpg);
+  background-image: url(images/Dark Room.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
